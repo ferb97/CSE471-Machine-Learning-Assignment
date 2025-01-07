@@ -1,8 +1,11 @@
+**Authors**: Abrar Mahmud, Md. Sadik Hossain Shanto  
+**Date**: January 07, 2025
 
-# When LLM Meets DRL: Advancing JailbreakingEfficiency via DRL-guided Search
+
+
+# When LLM Meets DRL: Advancing Jailbreaking Efficiency via DRL-guided Search
 
 Large Language Models (LLMs) are changing the game. From writing stories to debugging code, they’ve become the backbone of modern AI applications. But as their capabilities skyrocket, so do the challenges of keeping them secure. Enter the dark art of **"jailbreaking"**—a method attackers use to bend these models to their will, tricking them into generating harmful or unethical content.
-
 
 
 At first, jailbreaking felt like a niche problem, often requiring hours of manual tinkering or insider knowledge of the model. But not anymore. Today, attackers are turning to **automation** and **black-box methods**, pushing the boundaries of what’s possible. 
