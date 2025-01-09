@@ -1,4 +1,4 @@
-**Authors**: Abrar Mahmud, Md. Sadik Hossain Shanto  
+**Authors**: Abrar Mahmud(1905097), Md. Sadik Hossain Shanto(1905101)  
 **Date**: January 07, 2025
 
 
@@ -11,7 +11,7 @@ Large Language Models (LLMs) are changing the game. From writing stories to debu
 At first, jailbreaking felt like a niche problem, often requiring hours of manual tinkering or insider knowledge of the model. But not anymore. Today, attackers are turning to **automation** and **black-box methods**, pushing the boundaries of what’s possible. 
 Genetic algorithms, in particular, have gained traction for their ability to evolve prompts over time. Yet, their reliance on randomness often holds them back, making it clear we need something smarter.
 
-That’s where **RLbreaker** steps in. It doesn’t just guess—it learns. By harnessing the power of **Deep Reinforcement Learning (DRL)**, RLbreaker approaches jailbreaking as a **search problem**. It trains an intelligent agent to craft prompts with **precision**, leaving random guessing in the dust.
+That’s where **RLbreaker**[[1]](#1-drl) steps in. It doesn’t just guess—it learns. By harnessing the power of **Deep Reinforcement Learning (DRL)**, RLbreaker approaches jailbreaking as a **search problem**. It trains an intelligent agent to craft prompts with **precision**, leaving random guessing in the dust.
 
 The result? Faster, more effective attacks that outperform existing methods while standing strong against the latest defenses.
 
